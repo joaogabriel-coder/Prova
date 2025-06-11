@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Main/Main.iml" filepath="$PROJECT_DIR$/Main/Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atividade 10/Atividade 10.iml" filepath="$PROJECT_DIR$/Atividade 10/Atividade 10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atividade 11/Atividade 11.iml" filepath="$PROJECT_DIR$/Atividade 11/Atividade 11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atividade 12/Atividade 12.iml" filepath="$PROJECT_DIR$/Atividade 12/Atividade 12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atividade 13/Atividade 13.iml" filepath="$PROJECT_DIR$/Atividade 13/Atividade 13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atividade 2/Atividade 2.iml" filepath="$PROJECT_DIR$/Atividade 2/Atividade 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atividade 3/Atividade 3.iml" filepath="$PROJECT_DIR$/Atividade 3/Atividade 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atividade 4/Atividade 4.iml" filepath="$PROJECT_DIR$/Atividade 4/Atividade 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atividade 5/Atividade 5.iml" filepath="$PROJECT_DIR$/Atividade 5/Atividade 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atividade 6/Atividade 6.iml" filepath="$PROJECT_DIR$/Atividade 6/Atividade 6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atividade 7/Atividade 7.iml" filepath="$PROJECT_DIR$/Atividade 7/Atividade 7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atividade 8/Atividade 8.iml" filepath="$PROJECT_DIR$/Atividade 8/Atividade 8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atividade 9/Atividade 9.iml" filepath="$PROJECT_DIR$/Atividade 9/Atividade 9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atividade 1/Main.iml" filepath="$PROJECT_DIR$/Atividade 1/Main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Prova.iml" filepath="$PROJECT_DIR$/.idea/Prova.iml" />
     </modules>
   </component>
